@@ -1,0 +1,11 @@
+body{
+    background-color: lightblue;
+    margin-top:35px;
+}
+h4{
+    font-family: 'Exo 2', sans-serif;
+    font-weight: 500px;
+}
+i.left{
+    margin-right: 3px;
+}
